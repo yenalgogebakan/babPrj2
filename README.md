@@ -7,4 +7,6 @@ git remote add https://github.com/yenalgogebakan/babPrj2.git
 
 git push -u origin main
 
+git clone https://
+
 git pull main
